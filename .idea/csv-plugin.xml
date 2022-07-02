@@ -31,6 +31,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\005 Bestimmtheitsmaß R2\hotels.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\006 Projekt Bestimmtheitsmaß R2\autos_prepared.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
