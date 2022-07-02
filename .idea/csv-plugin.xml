@@ -52,6 +52,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\008 Polynomiale Regression\fields.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\009 Projekt Polynomiale Regression\diamonds.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
