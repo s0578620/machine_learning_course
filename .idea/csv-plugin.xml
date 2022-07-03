@@ -66,6 +66,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\011 K-Fold Cross Validation\hotels.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\012 Projekt K-Fold Cross Validation\diamonds.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
